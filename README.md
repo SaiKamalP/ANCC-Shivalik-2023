@@ -4,6 +4,8 @@ This is a git repo related to the ANCC Shivalik 2023 whataspp group.
 
 Here we are posting the same files we post on the whatsapp group for everyone to access.
 
+Find files in the resources/exports folder. (Links in the files may not work if you direcly try to click the link while viewing the files on github. Better download and see. Why not just clone the repo and keep pulling for updates locally?).
+
 ### If you are member of shivalik 2023 freshers
 
 You will find the same file posted in the whatsapp group here, so if you miss any files ...etc, you may find them neetly organized here.
