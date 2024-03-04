@@ -29,7 +29,7 @@ We have a ANCC Shivalik 2023 codeforces group where we share practice problem sh
 In order to get access to those sheets you can do the following.
 
 1. Make an account on [Codeforces](https://www.codeforces.com).
-2. Click Join now on the following website and register with codeforces handel [cfstats-ancc](https://cfstats-ancc.infinityfreeapp.com/login)
+2. Click Join now on the following website and register with codeforces handel [cfstats-ancc](https://cfstats-ancc.free.nf/login)
 3. Ask your hostel's ANCC representative to add you to your hostel group on [cfstats-ancc](https://cfstats-ancc.infinityfreeapp.com/login) website.
 4. Fill out the following google form [spectator-entry-ANCC-Shivalik-2023](https://forms.gle/mcLkCk72H44CREdVA)
 
